@@ -4,6 +4,9 @@
 *.so
 
 # Folders
+src
+pkg
+bin
 _obj
 _test
 
